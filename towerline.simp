@@ -1,0 +1,48 @@
+{
+
+	{
+	    translate -40 -20 00
+	    rotate X 20
+	    rotate Y 35
+	 
+	    file "tower"
+	
+	}
+	{
+	    translate -20 -10 -25
+	    rotate X 20
+	    rotate Y 35
+	 
+	    file "tower"
+	
+	}
+	{
+	    translate 0 0 -50
+	    rotate X 20
+	    rotate Y 35
+	 
+	    file "tower"
+	
+	}
+	{
+		translate 20 10 -100
+		rotate X 20
+		rotate Y 35
+		
+		file "tower"
+	}
+	{
+		translate 40 20 -150
+		rotate X 20
+		rotate Y 35
+		
+		file "tower"
+	}
+	{
+		translate 60 30 -200
+		rotate X 20
+		rotate Y 35
+		
+		file "tower"
+	}
+}

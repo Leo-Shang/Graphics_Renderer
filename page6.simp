@@ -1,0 +1,31 @@
+{
+	translate 0 30 0
+	file "towerline"
+	{
+		translate 40 -30 20
+		file "towerline"
+	}
+}
+{
+	{
+		translate -85 -80 -22
+		rotate X 25
+		rotate Y 45
+		scale 30 30 30
+		file "cube"
+	}
+	{
+		translate -30 -80 -14
+		rotate X 25
+		rotate Y 45
+		scale 30 30 30
+		file "cube"
+	}
+	{
+		translate 25 -80 -6
+		rotate X 25
+		rotate Y 45
+		scale 30 30 30
+		file "cube"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	scale 15 15 50
+	translate 3 2 -3
+	rotate X 15
+    rotate Y 30
+	file "pyramid"
+}
+
+{
+    scale 12 12 50
+    translate -6 2 -3
+    rotate X 15
+    rotate Y 30
+    file "letterT"
+}
