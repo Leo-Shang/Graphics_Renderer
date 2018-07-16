@@ -1,4 +1,7 @@
 # Graphics_Renderer
+
+This is a graphic rendering that generates a photorealistic image from a 3D model.
+
 Developing Environment:
 		Language: Java
 		IDE: InteliJ
